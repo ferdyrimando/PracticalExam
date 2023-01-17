@@ -35,7 +35,7 @@ A user management system created with PHP and MySQL
  <li>Create a database name (db_admin)</li>
  <li>Import database file (db_admin.sql)</li>
  <li>Admin:Information</li>
- <li>Admin username: ferdie.rimando@gmail.com</li>
+ <li>Admin username: ferdyrimando@ymail.com</li>
  <li>Admin pass: f3rdinand</li>
  
 
