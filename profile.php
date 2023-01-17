@@ -54,6 +54,14 @@ if (isset($updateUser)) {
                 <label for="mobile">Mobile Number</label>
                 <input type="text" id="mobile" name="mobile" value="<?php echo $getUinfo->mobile; ?>" class="form-control">
               </div>
+              <div class="form-group">
+                <label for="gender">Gender</label>
+                <input type="text" id="gender" name="gender" value="<?php echo $getUinfo->gender; ?>" class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="address">Address</label>
+                <input type="text" id="address" name="address" value="<?php echo $getUinfo->address; ?>" class="form-control">
+              </div>
 
               <?php if (Session::get("roleid") == '1') { ?>
 
